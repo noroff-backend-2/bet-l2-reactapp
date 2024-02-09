@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d9isVYmS4dfvJxNsfm3gN8VKa0S+gFChOXywoa4GBjYAncUdRx5W9KfiyiW1RFU3L1H6d8FQBKY0opABI+A7nQ==",
+  "success": true,
+  "projectFilePath": "D:\\Backend Development Projects\\AspCoreReactApp\\AspCoreReactApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.14\\microsoft.aspnetcore.spaproxy.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
